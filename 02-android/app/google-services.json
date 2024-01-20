@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "60466566626",
+    "project_id": "b2023-gr1acc-vaes",
+    "storage_bucket": "b2023-gr1acc-vaes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60466566626:android:8aa45bc1d8ddf2a80395bb",
+        "android_client_info": {
+          "package_name": "com.example.gr1accvaes2023b"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlhlJCGAu6ZZZ2GzU1WY5NqUY48K41SKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
