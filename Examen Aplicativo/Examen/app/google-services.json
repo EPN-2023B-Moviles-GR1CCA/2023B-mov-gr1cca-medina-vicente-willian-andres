@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "735012211532",
+    "firebase_url": "https://b2023-gr1acc-wamv-default-rtdb.firebaseio.com",
+    "project_id": "b2023-gr1acc-wamv",
+    "storage_bucket": "b2023-gr1acc-wamv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735012211532:android:e414b860da1683bee5dde9",
+        "android_client_info": {
+          "package_name": "com.example.apprestaurante"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBsjWofvPvHtEWU6mLDrXfpwXIJWulwGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735012211532:android:9be231cfc91ad4e0e5dde9",
+        "android_client_info": {
+          "package_name": "com.example.proyecto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBsjWofvPvHtEWU6mLDrXfpwXIJWulwGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
